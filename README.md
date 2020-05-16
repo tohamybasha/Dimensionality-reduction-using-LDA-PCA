@@ -11,4 +11,5 @@ c. The dataset has 10 images per 40 subjects. Every image is a grayscale image o
 size 92x112.
 
 Classification using simple classifier after PCA.
+
 Classification using simple classifier after LDA.
